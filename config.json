@@ -1,0 +1,9 @@
+{ "host": "localhost",
+  "port": 3099,
+  "timeout": 10000,
+  "cache": "memory",
+  "cacheConfig": {
+    "cacheDurationMinutes": 0,
+    "cacheMaxEntries": 0
+  }
+}
